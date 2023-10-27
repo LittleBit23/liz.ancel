@@ -8,14 +8,18 @@ about:
   links:
     # Available icons: https://icons.getbootstrap.com/
     - icon: instagram
-      text: instagam
+      text: Instagam
       href: https://instagram.com/e.little.bit.wordy
     - icon: envelope-fill
-      text: email
+      text: Email
       href: mailto:ancel014@umn.edu
     - icon: linkedin
       text: LinkedIn
       href: https://www.linkedin.com/in/elizabeth-ancel/
+    - icon: eyeglasses
+      text: Google Scholar
+      href: https://scholar.google.com/citations?hl=en&user=WgHOBawAAAAJ
+      
 ---
 
-Iggy is the Chief Beggar at Three Bark Manor. When not innovating naptime, Iggy enjoys dinner.
+Doctoral student in Speech-Language-Hearing Sciences at the University of Minnesota.
