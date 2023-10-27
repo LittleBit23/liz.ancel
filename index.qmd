@@ -3,8 +3,8 @@ title: "Liz Ancel"
 about:
   # Templates include: jolla, trestles, solana, marquee, or broadside
   # https://quarto.org/docs/websites/website-about.html
-  template: trestles
-  image: colorLIZ.jpg
+  template: marquee
+  image: C:\Users\lizea\Documents\R\quarto-website-skeleton\img\colorLIZ.JPG
   links:
     # Available icons: https://icons.getbootstrap.com/
     - icon: twitter
@@ -19,4 +19,3 @@ about:
 ---
 
 Iggy is the Chief Beggar at Three Bark Manor. When not innovating naptime, Iggy enjoys dinner.
-
