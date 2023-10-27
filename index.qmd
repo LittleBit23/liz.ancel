@@ -7,15 +7,15 @@ about:
   image: img/lizkuska.png
   links:
     # Available icons: https://icons.getbootstrap.com/
-    - icon: twitter
-      text: twitter
-      href: https://twitter.com
-    - icon: github
-      text: Github
-      href: https://github.com
+    - icon: instagram
+      text: instagam
+      href: https://instagram.com/e.little.bit.wordy
+    - icon: envelope-fill
+      text: email
+      href: mailto:ancel014@umn.edu
     - icon: linkedin
       text: LinkedIn
-      href: https://linkedin.com
+      href: https://www.linkedin.com/in/elizabeth-ancel/
 ---
 
 Iggy is the Chief Beggar at Three Bark Manor. When not innovating naptime, Iggy enjoys dinner.
