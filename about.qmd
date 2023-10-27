@@ -2,7 +2,13 @@
 title: "About"
 ---
 
-My name is Liz Ancel and I am a fourth-year doctoral student in the Speech-Language-Hearing Sciences at the University of Minnesota. 
+My name is Liz Ancel and I am a fourth-year doctoral student in the Speech-Language-Hearing Sciences at the University of Minnesota.
+
+## Research Labs
+
+I am a member of the Studies in Applied Sociolinguistics of Speech and Language. 
+
+<img src="img/SASS Logo Transparent.png" alt="Logo for the Studies in Applied Sociolinguistics of Speech and Language Lab" width="200" height="200"  />
 
 ## Education
 
@@ -11,3 +17,4 @@ My name is Liz Ancel and I am a fourth-year doctoral student in the Speech-Langu
 2018: M.S. in Speech-Language Pathology at Purdue University
 
 2026: Ph.D. in Speech-Language-Hearing Sciences at University of Minnesota. 
+

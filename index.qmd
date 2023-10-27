@@ -3,7 +3,7 @@ title: "Liz Ancel"
 about:
   # Templates include: jolla, trestles, solana, marquee, or broadside
   # https://quarto.org/docs/websites/website-about.html
-  template: marquee
+  template: jolla
   image: img/lizkuska.png
   links:
     # Available icons: https://icons.getbootstrap.com/
