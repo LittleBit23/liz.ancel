@@ -6,9 +6,15 @@ My name is Liz Ancel and I am a fourth-year doctoral student in the Speech-Langu
 
 ## Research Labs
 
-I am a member of the Studies in Applied Sociolinguistics of Speech and Language. 
+<a href="https://sites.google.com/umn.edu/sasslab/home">Studies in Applied Sociolinguistics of Speech and Language</a> with Benjamin Munson
 
-<img src="img/SASS Logo Transparent.png" alt="Logo for the Studies in Applied Sociolinguistics of Speech and Language Lab" width="200" height="200"  />
+<img src="img/SASS Logo Transparent.png" alt="Logo for the Studies in Applied Sociolinguistics of Speech and Language Lab" width="150" height="150"/>
+
+<a href="https://www.finestackclil.com/">Child Language Intervention Lab</a> with Liza Finestack
+
+<img src="img/CLIL_Logo.png" alt="Logo for the Studies in Applied Sociolinguistics of Speech and Language Lab" width="150" height="100"/>
+
+(Previously) <a href="https://hhs.purdue.edu/auditory-cognitive-neuroscience-lab/">Auditory Cognitive Neurosciences Laboratory</a> with Natalya Kaganovich 
 
 ## Education
 
@@ -17,4 +23,39 @@ I am a member of the Studies in Applied Sociolinguistics of Speech and Language.
 2018: M.S. in Speech-Language Pathology at Purdue University
 
 2026: Ph.D. in Speech-Language-Hearing Sciences at University of Minnesota. 
+
+## Publications
+
+<b>Ancel, E.</b>, Munson, B., & Finestack, L. H., (2023, November 16-18) Acoustic Variability of Interventionists’ Productions During Sentence Imitation. [Poster presentation] American Speech-Language-Hearing Association Convention, Boston, MA, United States. 
+
+<b>Ancel, E.</b>, Lee, H., Kornelis, M., Kuchler, K., Matthys, O., & Finestack, L. H., (2023, November 16-18) Five Principles to Consider When Targeting Grammatical Forms. [Oral presentation] American Speech-Language-Hearing Association Convention, Boston, MA, United States. 
+
+Kuchler, K., Kornelis, M., <b>Ancel, E.</b>, Lee, H., & Finestack, L. H., (2023, November 16-18) Implementation Feasibility of an Explicit-based Intervention Targeting Grammatical Verb Forms for Children with DLD. [Poster presentation] American Speech-Language-Hearing Association Convention, Boston, MA, United States. 
+
+<b>Ancel, E.</b>, Smith, M.L., Rao, V.N.V., & Munson, B. (2023). Relating Acoustic Measures to Listener Ratings of Children’s Productions of Word-Initial /ɹ/ and /w/. Journal of Speech, Language, and Hearing Research, 1-15. https://doi.org/10.1044/2023_JSLHR-22-00713 
+
+Finestack, L. H., <b>Ancel, E.</b>, Lee, H., Kuchler, K., & Kornelis, M. (2023). Five Additional Evidence-Based Principles to Facilitate Grammar Development for Children with Developmental Language Disorder. American Journal of Speech-Language Pathology, 1-12. https://10.1044/2023_AJSLP-23-00049 
+
+Finestack, L. H., Linert, J., <b>Ancel, E.</b>, Kuchler, K., & Matthys, O. (2023). Verbs matter: A tutorial for determining verb difficulty. American Journal of Speech-Language Pathology, 1-18. https://doi.org/10.1044/2023_AJSLP-22-00333 
+
+<b>Ancel, E.</b>, Munson, B., & Finestack, L. H. (2023, May 8-12). Acoustic Variability of Examiners’ Productions During Language Assessment. [Poster presentation]. 185th Meeting of the Acoustical Society of America, Chicago, IL, United States.
+
+<b>Ancel, E.</b> (2023, May 8-12). Active Cultural Responsivity to Terminology in Speech and Hearing Science. [Oral presentation]. 185th Meeting of the Acoustical Society of America, Chicago, IL, United States.
+
+Lee, H., Kornelis, M., <b>Ancel, E.</b>, Matthys, O., & Finestack, L. H. (2023, April 22) Verbs matter! Intervention approaches to consider when targeting grammatical forms. [Oral presentation] Minnesota Speech-Language-Hearing Association Convention, Virtual. 
+
+<b>Ancel, E</b> (2023, March 23) Linguistic Diversity. [Guest Lecture] EPSY 3132: Psychology of Multiculturalism in Education, Univeristy of Minnesota. 
+
+Munson, B. & <b>Ancel, E.</b> (2022, November 17-19) How Chidlren Learn Gendered Speech, and Why It Matters for Speech-Language Pathology. [Oral presentation] American Speech-Language-Hearing Association Convention, New Orleans, LA, United States. 
+
+<b>Ancel, E.</b>, Kuchler, K., Linert, J., Matthys, O., & Finestack, L. H. (2022, November 17-19) Verbs matter! Intervention approaches to consider when targeting grammatical forms. [Poster presentation] American Speech-Language-Hearing Association Convention, New Orleans, LA, United States. 
+
+<b>Ancel, E.</b>, Smith, M. L., Rao, V. N. V., & Munson, B. (2021, November 29-December 3). Does F3-F2 distance predict transcriptions of preschoolers’ /r/ productions? [Poster presentation]. 181st Meeting of the Acoustical Society of America, Seattle, WA, United States.
+
+Kaganovich, N., & <b>Ancel, E.</b> (2019). Different neural processes underlie visual speech perception in school-age children and adults: An event-related potentials study. Journal of Experimental Child Psychology, 184, 98-122. https://doi.org/10.1016/j.jecp.2019.03.009 
+
+Kaganovich, N., & <b>Ancel, E.</b> (2018, February). Audiovisual Word-Matching in School-Age Children: An ERP Study [Poster presentation]. Ringel Evidence-Based Practice Symposium, West Lafayette, IN, United States. 
+
+Kaganovich, N., & <b>Ancel, E.</b> (2017, October). Audiovisual Word-Matching in School-Age Children: An ERP Study [Poster presentation]. Crossroads Conference on Communicative Disorders, West Lafayette, IN, United States.
+
 

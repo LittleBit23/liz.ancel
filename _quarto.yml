@@ -12,6 +12,8 @@ website:
         text: About
       - href: cv.qmd
         text: CV
+      - href: scores.qmd
+        text: High Scores
 
 format:
   html:

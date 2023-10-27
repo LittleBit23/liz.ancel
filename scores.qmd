@@ -1,0 +1,19 @@
+---
+title: "High Scores"
+---
+
+Want to kill some time? See if you can beat me!
+
+<a href="https://apps.apple.com/us/app/cryptogram-cryptoquote-game/id931157057">Cryptograms</a>: 0:21
+
+<a href="https://freegames.org/2048-solitaire/">2048 Solitare</a>: 636,596
+
+<a href="https://aj-r.github.io/Evil-2048/">Evil 2048</a>: 9,576
+
+<a href="https://flappybird.io/">Flappy Bird</a>: 50
+
+<a href="https://zty.pe/">ZType</a>: 1616
+
+<a href="https://entanglement.gopherwoodstudios.com/en-US-index.html">Entanglement</a>: 444
+
+<a href="https://loopover.xyz/">Loopover</a>: 23.501
