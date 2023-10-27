@@ -2,19 +2,17 @@
 title: "About"
 ---
 
-My full name is Ignatius Fauci Fortenberry, III. Mostly I go by Iggy (except when I am in trouble). I am a 2-year old schnauzer/black lab mix. I live with my sister (Sadie) and my brother (Hank). I love to eat, sleep, and walk. My favorite people are: anyone with treats, the postal delivery person, the Amazon delivery person, the UPS delivery person, and Goldy. In my spare time I enjoy pulling the stuffing out of toys and dribbling water all over the house.
+My name is Liz Ancel and I am a fourth-year doctoral student in the Speech-Language-Hearing Sciences at the University of Minnesota. 
 
 ## Education
 
-Puppy Kindergarten Level 2, [Pet Smart](https://www.petsmart.com/) | Richfield, MN
-Certificate in Walking | Oct. 2021
+2016: B.S. in Speech, Language, and Hearing Sciences at Purdue University. 
 
-Puppy Kindergarten Level 1, [Pet Smart](https://www.petsmart.com/) | Richfield, MN
-Certificate in Listening | Sept. 2021
+2018: M.S. in Speech-Language Pathology at Purdue University
 
+2026: Ph.D. in Speech-Language-Hearing Sciences at Univeristy of Minnesota. 
 
-## References
+CV: 
 
-Hank | Chief Barking Scientist | Three Bark Manor
+<object data="/docs/Ancel_CV.pdf" type="application/pdf" width="100%" height="500px">
 
-[Sadie](https://sadie-dog.netlify.app/) | Naptime Engineer | Three Bark Manor
