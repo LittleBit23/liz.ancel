@@ -1,11 +1,11 @@
 ---
-title: "CV"
+title: "Curriculum Vitae"
 ---
-
-Curriculum Vitae: 
-
-<object data="docs/Ancel_CV.pdf" type="application/pdf" width="100%" height="500px">
-<p>Unable to display PDF file.
-<a href="docs/Ancel_CV.pdf"> Download </a>instead.</p>
+ 
+<object data="files/Ancel_CV.pdf" width="100%" height="500">
     </object>
+    
+<p>If unable to display PDF file
+<a href="files/Ancel_CV.pdf"> download </a>instead.</p>
+
 

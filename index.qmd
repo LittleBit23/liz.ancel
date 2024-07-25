@@ -4,12 +4,9 @@ about:
   # Templates include: jolla, trestles, solana, marquee, or broadside
   # https://quarto.org/docs/websites/website-about.html
   template: jolla
-  image: img/lizkuska.png
+  image: img/Headshot.jpg
   links:
     # Available icons: https://icons.getbootstrap.com/
-    - icon: instagram
-      text: Instagam
-      href: https://instagram.com/e.little.bit.wordy
     - icon: envelope-fill
       text: Email
       href: mailto:ancel014@umn.edu
@@ -24,6 +21,5 @@ about:
 
 Speech-Language Pathologist
 
-Doctoral student in Speech-Language-Hearing Sciences at the University of Minnesota
-
-Word Enthusiast
+Doctoral Candidate in Speech-Language-Hearing Sciences <br>
+at the University of Minnesota
