@@ -6,8 +6,10 @@
 
 /*-- scss:defaults --*/
 
-$navbar-hl: #ca054d;
-
+$navbar-bg:#FBF7F1; 
+$navbar-fg:#FBD9D0;
+$navbar-hl: #CE756D;
+$body-bg: #FBF7F1; 
 
 
 
@@ -15,26 +17,26 @@ $navbar-hl: #ca054d;
 
 /* unvisited link */
 a:link {
-  color:  #ca054d;
+  color:  #CE756D;
   text-decoration: none;
 }
 
 /* visited link */
 a:visited {
-  color:  #ca054d;
+  color:  #5C9EAD;
   text-decoration: none;
 }
 
 /* mouse over link */
 a:hover {
-  color:  #ca054d;
+  color:  #5C9EAD;
   text-decoration: underline;
   
 }
 
 /* selected link */
 a:active {
-  color:  #ca054d;
+  color:  #5C9EAD;
   text-decoration: none;
 } 
 

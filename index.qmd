@@ -9,7 +9,7 @@ about:
     # Available icons: https://icons.getbootstrap.com/
     - icon: envelope-fill
       text: Email
-      href: mailto:ancel014@umn.edu
+      href: mailto:ancel2@wisc.edu
     - icon: linkedin
       text: LinkedIn
       href: https://www.linkedin.com/in/elizabeth-ancel/
@@ -19,7 +19,7 @@ about:
       
 ---
 
-Speech-Language Pathologist
+T32 Postdoctoral Fellow with the Waisman Center<br>
+at the University of Wisconsin-Madison
 
-Doctoral Candidate in Speech-Language-Hearing Sciences <br>
-at the University of Minnesota
+Speech-Language Pathologist

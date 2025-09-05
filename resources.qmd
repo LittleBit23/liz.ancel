@@ -5,35 +5,22 @@ editor: visual
 
 ### Intervention
 
-#### <a href="https://drive.google.com/drive/folders/1NdE3kliruWHPHEUKd5qu_mmuD3wXBJXk?usp=drive_link">Child Language Intervention Lab's Grammatical Language Study Materials</a> 
+#### <a href="https://drive.google.com/drive/folders/1NdE3kliruWHPHEUKd5qu_mmuD3wXBJXk?usp=drive_link">Child Language Intervention Lab's Grammatical Language Study Materials</a>
 
 ##### Created by:
 
-Finestack, Lizbeth H.<br>
-Linert, Jamie<br>
-Kuchler, Kirstin<br>
-Ancel, Elizabeth<br>
-Matthys, Olivia<br>
-Kornelis, Miriam <br>
-Lee, HaeJi <br>
+Finestack, Lizbeth H.<br> Linert, Jamie<br> Kuchler, Kirstin<br> Ancel, Elizabeth<br> Matthys, Olivia<br> Kornelis, Miriam <br> Lee, HaeJi <br>
 
 ### Data Repository for the University of Minnesota (DRUM)
 
 #### <a href="https://conservancy.umn.edu/items/06d08c29-bf0e-4e07-8cdc-368129ced58d">Verbs Matter: Verb Frequency and Phonological Complexity in Four Morphosyntactic Contexts</a>
 
-##### Authors: 
-Finestack, Lizbeth H.<br>
-Linert, Jamie<br>
-Ancel, Elizabeth<br>
-Hilliard, Lisa<br>
-Kuchler, Kirstin<br>
-Matthys, Olivia<br>
+##### Authors:
+
+Finestack, Lizbeth H.<br> Linert, Jamie<br> Ancel, Elizabeth<br> Hilliard, Lisa<br> Kuchler, Kirstin<br> Matthys, Olivia<br>
 
 #### <a href="https://conservancy.umn.edu/items/bf926686-c2d1-456b-a87b-a4f91fd9df68">Acoustic and Perceptual Measurements of 3- and 4-Year Old Children's Productions of Word-Initial /ɹ/ and /w/</a>
 
-##### Authors: 
-Ancel, Elizabeth<br>
-Smith, Michael L.<br>
-Rao, V. N. Vimal<br>
-Munson, Benjamin<br>
+##### Authors:
 
+Ancel, Elizabeth<br> Smith, Michael L.<br> Rao, V. N. Vimal<br> Munson, Benjamin<br>
