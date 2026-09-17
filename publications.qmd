@@ -5,6 +5,10 @@ editor: visual
 
 <b>Publications:</b>
 
+Munson, B. & <b>Ancel, E.</b> (2026). Afterword. In Babatsouli, E., Holt, Y. F., & Washington, K. N. (Eds.) Linguistic varieties in North America: A guide for speech and language practitioners. Multilingual Matters Limited. https://doi.org/10.21832/BABATS2682
+
+Lee, H., <b>Ancel, E.</b>, Ebert, K., & Munson, B. (2026). Racial identity perception, social affiliation, and sentence repetition in children. Journal of Speech, Language, and Hearing Research, 1-10. https://doi.org/10.1044/2025_JSLHR-24-00771
+
 <b>Ancel, E.,</b> Munson, B., Winn, M. B., & Finestack, L. H. (2025). A preliminary investigation into the acoustic variability of examiners’ productions in language assessments. J. Acoust. Soc. Am., 157(5), 3256-3266. https://doi.org/10.1121/10.0036556
 
 <b>Ancel, E.</b>, Smith, M.L., Rao, V.N.V., & Munson, B. (2023). Relating Acoustic Measures to Listener Ratings of Children’s Productions of Word-Initial /ɹ/ and /w/. Journal of Speech, Language, and Hearing Research, 1-15. https://doi.org/10.1044/2023_JSLHR-22-00713
@@ -16,6 +20,24 @@ Finestack, L. H., Linert, J., <b>Ancel, E.</b>, Kuchler, K., & Matthys, O. (2023
 Kaganovich, N., & <b>Ancel, E.</b> (2019). Different neural processes underlie visual speech perception in school-age children and adults: An event-related potentials study. Journal of Experimental Child Psychology, 184, 98-122. https://doi.org/10.1016/j.jecp.2019.03.009
 
 <b>Presentations:</b>
+
+<b>Ancel, E.</b>, Munson, B., Ebert, K., & Finestack, L. F. (November 2026) The Way We Talk: How Clinician’s Use of Child-Directed Speech Affects Children’s Language Outcomes [Accepted oral presentation]. The American Speech-Language-Hearing Association Convention, Indianapolis, IN, United States. 
+
+Finestack, L.F., <b>Ancel, E.</b>, Hallberg, G., Lee, H., Linert, J., & Matthys, O. (November 2026) The Grammar Toolkit: Evidence-based Assessment and Intervention for Children with DLD [Accepted oral presentation]. The American Speech-Language-Hearing Association Convention, Indianapolis, IN, United States. 
+
+Kornelis, M., <b>Ancel, E.</b>, Linert, J., Lee, H., Matthys, O., & Finestack, L. H. (November 2026) An Efficient Grammatical Tool for Identifying Targets and Measuring Progress in School-Age Intervention [Accepted oral presentation]. The American Speech-Language-Hearing Association Convention, Indianapolis, IN, United States.
+
+<b>Ancel, E.</b>, Hooyman, T., Schabes, C., & Sterling, A. (November 2026) Characteristics of Assessors' Speech to Children Based on Age, Language Ability, and Autistic Traits  [Accepted poster presentation]. The American Speech-Language-Hearing Association Convention, Indianapolis, IN, United States. 
+
+Matthys, O., <b>Ancel, E.</b>, Kornelis, M., Lee, H., Linert, J., Spoden, A., & Finestack, L. H. (November 2025) From Assessment to Intervention: Case-Based Grammar Intervention for Children with DLD [Oral presentation]. The American Speech-Language-Hearing Association Convention, Washington, D.C., United States. 
+
+<b>Ancel, E.</b>, Elmquist, M., Kornelis, M., Finestack, L. H., & Sterling, A. (October 2026) Predicting Accuracy of LENA Automated Speaker Labeling for Young Children with Down Syndrome [Accepted poster presentation]. 58th Annual Gatlinburg Conference, Minneapolis, MN, United States. 
+
+<b>Ancel, E.</b>, Winn, M. B., Finestack, L. H., & Munson, B. (September 2026) Acoustic characteristics of speech-language pathologists’ productions based on perceived age and language ability of the listener [Accepted poster presentation]. UW-Madison Postdoctoral Research Symposium, Madison, WI, United States. 
+
+Lee, H., <b>Ancel, E.</b>, Ebert, K., & Munson, B. (November 2025) Racial Identity Perception, Social Affiliation, and Sentence Repetition in Children [Poster presentation]. American Speech-Language-Hearing Association Convention, Washington D.C., United States. 
+
+<img src="img/asha_2025.jpg" alt="2025 ASHA Presentation" width="150" height="auto"/>
 
 Ancel, E., Winn, M. B., Finestack, L. H., & Munson, B. (May 2025) Acoustic characteristics of speech-language pathologists’ productions based on perceived age and language ability of the listener \[Poster presentation\]. 188th Meeting of the Acoustical Society of America, New Orleans, LA, United States.
 
