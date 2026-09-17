@@ -7,6 +7,8 @@ editor: visual
 
 #### <a href="https://drive.google.com/drive/folders/1NdE3kliruWHPHEUKd5qu_mmuD3wXBJXk?usp=drive_link">Child Language Intervention Lab's Grammatical Language Study Materials</a>
 
+Contains resources developed by the Child Language Intervention Laboratory for conducting intervention sessions targeting Past Tense -ed, Present Tense Singular -s, Present Progressive is/are + ing, and Do/Does Questions. Each target form has materials for eight unique sessions. 
+
 ##### Created by:
 
 Finestack, Lizbeth H.<br> Linert, Jamie<br> Kuchler, Kirstin<br> Ancel, Elizabeth<br> Matthys, Olivia<br> Kornelis, Miriam <br> Lee, HaeJi <br>
