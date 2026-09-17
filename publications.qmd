@@ -29,15 +29,15 @@ Kornelis, M., <b>Ancel, E.</b>, Linert, J., Lee, H., Matthys, O., & Finestack, L
 
 <b>Ancel, E.</b>, Hooyman, T., Schabes, C., & Sterling, A. (November 2026) Characteristics of Assessors' Speech to Children Based on Age, Language Ability, and Autistic Traits  [Accepted poster presentation]. The American Speech-Language-Hearing Association Convention, Indianapolis, IN, United States. 
 
-Matthys, O., <b>Ancel, E.</b>, Kornelis, M., Lee, H., Linert, J., Spoden, A., & Finestack, L. H. (November 2025) From Assessment to Intervention: Case-Based Grammar Intervention for Children with DLD [Oral presentation]. The American Speech-Language-Hearing Association Convention, Washington, D.C., United States. 
-
-<b>Ancel, E.</b>, Elmquist, M., Kornelis, M., Finestack, L. H., & Sterling, A. (October 2026) Predicting Accuracy of LENA Automated Speaker Labeling for Young Children with Down Syndrome [Accepted poster presentation]. 58th Annual Gatlinburg Conference, Minneapolis, MN, United States. 
+<b>Ancel, E.</b>, Elmquist, M., Kornelis, M., Finestack, L. H., & Sterling, A. (October 2026) Predicting Accuracy of LENA Automated Speaker Labeling for Young Children with Down Syndrome [Accepted poster presentation]. 58th Annual Gatlinburg Conference, Minneapolis, MN, United States.
 
 <b>Ancel, E.</b>, Winn, M. B., Finestack, L. H., & Munson, B. (September 2026) Acoustic characteristics of speech-language pathologists’ productions based on perceived age and language ability of the listener [Accepted poster presentation]. UW-Madison Postdoctoral Research Symposium, Madison, WI, United States. 
 
-Lee, H., <b>Ancel, E.</b>, Ebert, K., & Munson, B. (November 2025) Racial Identity Perception, Social Affiliation, and Sentence Repetition in Children [Poster presentation]. American Speech-Language-Hearing Association Convention, Washington D.C., United States. 
+Matthys, O., <b>Ancel, E.</b>, Kornelis, M., Lee, H., Linert, J., Spoden, A., & Finestack, L. H. (November 2025) From Assessment to Intervention: Case-Based Grammar Intervention for Children with DLD [Oral presentation]. The American Speech-Language-Hearing Association Convention, Washington, D.C., United States. 
 
 <img src="img/asha_2025.jpg" alt="2025 ASHA Presentation" width="150" height="auto"/>
+
+Lee, H., <b>Ancel, E.</b>, Ebert, K., & Munson, B. (November 2025) Racial Identity Perception, Social Affiliation, and Sentence Repetition in Children [Poster presentation]. American Speech-Language-Hearing Association Convention, Washington D.C., United States. 
 
 Ancel, E., Winn, M. B., Finestack, L. H., & Munson, B. (May 2025) Acoustic characteristics of speech-language pathologists’ productions based on perceived age and language ability of the listener \[Poster presentation\]. 188th Meeting of the Acoustical Society of America, New Orleans, LA, United States.
 
@@ -50,8 +50,6 @@ Finestack, L. H., Kornelis, M., Ancel, E., & Kuchler, K. (July 2024) The Impact 
 <img src="img/IMG_0609.jpg" alt="2024 SRCLD Poster Presentation" width="150" height="auto"/>
 
 Lee, H., <b>Ancel, E.</b>, Munson, M., (May 2024) Racial Identity Perception, Social Affiliation, and Sentence Repetition in Children. \[Poster presentation\] Symposium on Research in Child Language Disorders, Madison, WI, United States.
-
-<img src="img/Beltrami.jpg" alt="Data collection for 2024 SRCLD Poster Presentation" width="150" height="auto"/>
 
 <b>Ancel, E.</b>, Kornelis, M., & Finestack, L. H., (May 2024) Interventionist and child use of verbs varying in difficulty within a grammatical language intervention. \[Poster presentation\] Symposium on Research in Child Language Disorders, Madison, WI, United States.
 
@@ -79,7 +77,7 @@ Lee, H., Kornelis, M., <b>Ancel, E.</b>, Matthys, O., & Finestack, L. H. (April 
 
 Munson, B. & <b>Ancel, E.</b> (November 2022) How Chidlren Learn Gendered Speech, and Why It Matters for Speech-Language Pathology. \[Oral presentation\] American Speech-Language-Hearing Association Convention, New Orleans, LA, United States.
 
-<b>Ancel, E.</b>, Kuchler, K., Linert, J., Matthys, O., & Finestack, L. H. (November 2022) Verbs matter! Intervention approaches to consider when targeting grammatical forms. \[Poster presentation\] American Speech-Language-Hearing Association Convention, New Orleans, LA, United States.
+<b>Ancel, E.</b>, Kuchler, K., Linert, J., Matthys, O., & Finestack, L. H. (November 2022) Verbs matter! Intervention approaches to consider when targeting grammatical forms. \[Oral presentation\] American Speech-Language-Hearing Association Convention, New Orleans, LA, United States.
 
 <b>Ancel, E.</b>, Smith, M. L., Rao, V. N. V., & Munson, B. (November 2021). Does F3-F2 distance predict transcriptions of preschoolers’ /r/ productions? \[Poster presentation\]. 181st Meeting of the Acoustical Society of America, Seattle, WA, United States.
 
