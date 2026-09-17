@@ -13,6 +13,9 @@ about:
     - icon: linkedin
       text: LinkedIn
       href: https://www.linkedin.com/in/elizabeth-ancel/
+    - icon: flower2
+      text: ORCiD
+      href: https://orcid.org/0000-0002-1467-2284 
     - icon: eyeglasses
       text: Google Scholar
       href: https://scholar.google.com/citations?hl=en&user=WgHOBawAAAAJ
@@ -20,6 +23,4 @@ about:
 ---
 
 T32 Postdoctoral Fellow with the Waisman Center<br>
-at the University of Wisconsin-Madison
-
-Speech-Language Pathologist
+University of Wisconsin-Madison
